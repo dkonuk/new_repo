@@ -1,2 +1,2 @@
 # new_repo
-pactice account for learning git
+practice account for learning git
